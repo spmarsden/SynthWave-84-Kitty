@@ -3,10 +3,12 @@
 
 ![Synthwave '84 logo over a cityscape](media/banner.png)
 
-A Kitty colour theme based on VSCode's
+Colour themes for Kitty based on
 [SynthWave '84](https://github.com/robb0wen/synthwave-vscode).
 
-![theme](media/theme.png)
+![SynthWave 84 theme](media/synthwave-84.png)
+
+![SynthWave 84 theme](media/synthwave-84-remix.png)
 
 ## Installation
 
@@ -14,7 +16,7 @@ A Kitty colour theme based on VSCode's
 mkdir -p ~/.config/kitty/themes
 cd ~/.config/kitty/themes
 git clone git@github.com:spmarsden/synthwave-84-kitty.git
-ln -s "synthwave-84-kitty/SynthWave '84.conf"
+ln -s "synthwave-84-kitty/*.conf ./"
 ```
 
 The theme will now be visible when using
@@ -23,10 +25,11 @@ The theme will now be visible when using
 kitty +kitten themes
 ```
 
-or you can add the following line to the end of `~/.config/kitty/kitty.conf`:
+or you can add one of the following line to the end of `~/.config/kitty/kitty.conf`:
 
 ```text
 include themes/SynthWave '84.conf
+include themes/SynthWave '84 Remix.conf
 ```
 
 ## Thanks
