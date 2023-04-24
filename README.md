@@ -15,7 +15,7 @@ Colour themes for Kitty based on
 ```bash
 mkdir -p ~/.config/kitty/themes
 cd ~/.config/kitty/themes
-git clone git@github.com:spmarsden/synthwave-84-kitty.git
+git clone git@github.com:spmarsden/synthwave-kitty.git
 ln -s "synthwave-84-kitty/*.conf ./"
 ```
 
