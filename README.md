@@ -32,9 +32,14 @@ include themes/SynthWave '84.conf
 include themes/SynthWave '84 Remix.conf
 ```
 
+## See Also
+
+- [SynthWave '84 VSCode theme](https://github.com/robb0wen/synthwave-vscode)
+- [SynthWave '84 skin for Midnight Commander](https://github.com/spmarsden/synthwave-mc)
+
 ## Thanks
 
 Many thanks to [Rob Owen](https://github.com/robb0wen) for the original theme,
-(and from whom I stole the banner from), and to
+(and from whom I stole the banner), and to
 [Unsplash](https://unsplash.com/photos/DxHR8K5Egjk) for the original city
 skyline.
