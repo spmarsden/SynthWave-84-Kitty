@@ -16,7 +16,7 @@ Colour themes for Kitty based on
 mkdir -p ~/.config/kitty/themes
 cd ~/.config/kitty/themes
 git clone git@github.com:spmarsden/synthwave-kitty.git
-ln -s "synthwave-kitty/themes/*.conf ./"
+ln -s synthwave-kitty/themes/*.conf ./
 ```
 
 The theme will now be visible when using
